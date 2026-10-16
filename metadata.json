@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Nhập Vai 6.9",
+  "description": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
